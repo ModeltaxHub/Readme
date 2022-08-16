@@ -1,0 +1,14 @@
+class Modeltax {
+    constructor(options) {
+        this.name = "Taso",
+        this.sex = "man",
+        this.length = "1.81",
+        this.type = "human",
+        this.job = "Dev&McBuilder",
+        this.weight = "72",
+        this.age = "18",
+        this.discord.tag = "!Suitei#3510"
+    };
+}
+
+module.exports = !Modeltax
